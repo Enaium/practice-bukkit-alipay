@@ -1,0 +1,4 @@
+name: bukkit-alipay
+version: '${version}'
+main: cn.enaium.BukkitAlipay
+api-version: '1.20'
